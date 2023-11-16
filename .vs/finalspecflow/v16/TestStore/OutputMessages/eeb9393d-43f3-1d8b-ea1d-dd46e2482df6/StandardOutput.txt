@@ -1,0 +1,74 @@
+Running before scenario...
+Given Launchh the browser in chrome browser
+Launching the chrome browser to perform the operations
+-> done: Amazoncamerasearch.GivenLaunchhTheBrowserInChromeBrowser() (0.0s)
+Running after step....
+And Open thee amazon url in chromee browser
+-> done: Amazoncamerasearch.GivenOpenTheeAmazonUrlInChromeeBrowser() (10.3s)
+Running after step....
+When Type Camera in search box and click on search icon
+-> done: Amazoncamerasearch.WhenTypeCameraInSearchBoxAndClickOnSearchIcon() (23.5s)
+Running after step....
+Then save the results in excel sheet or notepad
+Scraping products from page: 1
+Total products scraped from page 1: 23
+Total Prices scraped from page 1: 28
+CP PLUS 2MP Full HD Smart Wi-Fi CCTV Home Security Camera | 360° with Pan Tilt | View & Talk | Motion Alert | Night Vision | SD Card (Upto 128 GB), Alexa & Google Support | IR Distance 10mtr | CP-E25A
+CP PLUS 3 MP Full HD Smart Wi-fi CCTV Camera | 360° Pan & Tilt | View & Talk | Motion Alert | Night Vision | SD Card (Up to 128 GB) | Alexa & OK Google | 2-Way Talk | IR Distance 10Mtr | CP-E35A
+MI Xiaomi Wireless Home Security Camera 2i | Full HD Picture | 360 View | 2MP | AI Powered Motion Detection | Enhanced Night Vision| Talk Back Feature (2 Way Calling), 1080p, White
+TP-Link Tapo 360° 2MP 1080p Full HD Pan/Tilt Home Security Wi-Fi Smart Camera| Alexa Enabled| 2-Way Audio| Night Vision| Motion Detection| Sound and Light Alarm| Indoor CCTV (Tapo C200) White
+TP-Link Tapo C210 360° 3MP Full HD 2304 X 1296P Video Pan/Tilt Smart Wi-Fi Security Camera | Alexa Enabled | 2-Way Audio| Night Vision| Motion Detection | Indoor CCTV White
+ROCKTECH® Action Camera for Vlogging, Mountain Biking,Travelling, Scuba Diving,Motor Vlogging (4K @ 30FPS Action Camera)
+CP PLUS 3 MP Full HD Smart Wi-fi CCTV Camera | 360° Pan & Tilt | View & Talk | Motion Alert | Night Vision | SD Card (Up to 128 GB) | Alexa & OK Google | 2-Way Talk | IR Distance 10Mtr | CP-E35A
+CATBAT Kids Camera for Girls Boys, 13MP 1080P HD Digital Video Camera and Photography for Age 3-10 Years Old Children, Christmas Birthday Festival Gift for Kids (Blue with 4GB SD Card)
+Panasonic LUMIX G7 16.00 MP 4K Mirrorless Interchangeable Lens Camera Kit with 14-42 mm Lens (Black) with 3x Optical Zoom
+CP PLUS 2MP Full HD Smart Wi-Fi CCTV Home Security Camera | 360° with Pan Tilt | View & Talk | Motion Alert | Night Vision | SD Card (Upto 128 GB), Alexa & Google Support | IR Distance 10mtr | CP-E25A
+Great Choice HD Mini Camera Wireless WiFi 1080P Home Security Nanny IP Ball Cam with Motion Detection Night Vision
+CMS Crop Digital Camera for Kids, Toys for 6+ Years Boys Best Gift Children Kids,Boys,Girls Taking Photo, Child Video Recorder Camera Full HD 1080P, with Inbuilt Games for Kids (Blue)
+AUSHA 4K Action Camera - Waterproof, WiFi, 170° Wide Angle, Vlog-Ready, 4K Video and 16MP Photos, Perfect for Travel, Vlogging & YouTube
+Fujifilm Instax Mini 12 Instant Camera-Pink
+Canon EOS 1500D 24.1 Digital SLR Camera (Black) with EF S18-55 is II Lens
+IMOU 360° 1080P Full HD Security Camera, Human Detection, Motion Tracking, 2-Way Audio, Night Vision, Dome Camera with WiFi & Ethernet Connection, Alexa Google Assistant, Up to 256GB SD Card Support
+KODAK PIXPRO Friendly Zoom FZ45-BK 16MP Digital Camera with 4X Optical Zoom 27mm Wide Angle and 2.7" LCD Screen (Black)
+Fujifilm Instax Mini 12 Instant Camera-Green
+LEQTRONIQ 4K HD Auto Focus Camera with 48MP 30FPS 18X Digital Zoom
+FitSpark Eagle i12 Real 4K@30fps WiFi Action Camera 20MP Ultra HD 170° Wide-Angle Lens | 1st in Class with Flashlight & Type C External MIC Support | 6-Axis Gyro EIS Stabilization | Wireless Remote
+Tegan Digital Kids Camera for Boys Girls - Dual Selfie Mini Children Camera Age 3 4 5 6 7 8 9 Year Old Kids Camcorder Christmas Birthday Gift for Girls Boys Toy Camera for Kids Video Camera Recorder
+Fujifilm instax Wide 300 Instant Camera (Black)
+BLACKPOOL® 4K Waterproof Vlog Camera with Wide Angle Lens Underwater WiFi Video Action Camera
+1,198
+1,298
+2,499
+1,999
+2,399
+2,199
+1,298
+1,139
+37,489
+1,198
+999
+789
+2,199
+6,701
+43,999
+1,799
+13,090
+5,996
+17,990
+5,999
+749
+6,498
+2,199
+1,242
+2,389
+1,799
+1,399
+
+Writing data to Excel sheet.
+Data has been written to the Excel sheet.
+-> done: Amazoncamerasearch.ThenSaveTheResultsInExcelSheetOrNotepad() (17.3s)
+Running after step....
+Then Close the opened Browser
+-> done: Amazoncamerasearch.ThenCloseTheOpenedBrowser() (0.0s)
+Running after step....
+Running after scenario...
